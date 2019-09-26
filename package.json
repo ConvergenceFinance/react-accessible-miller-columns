@@ -1,0 +1,32 @@
+{
+  "name": "react-accessible-miller-columns",
+  "version": "1.0.0",
+  "description": "A fully accessible miller column component for React",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConvergenceFinance/react-accessible-miller-columns.git"
+  },
+  "keywords": [
+    "react",
+    "miller",
+    "column",
+    "form"
+  ],
+  "author": "Geoffrey Leung <geo.leung112@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConvergenceFinance/react-accessible-miller-columns/issues"
+  },
+  "homepage": "https://github.com/ConvergenceFinance/react-accessible-miller-columns#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.3",
+    "@types/react-dom": "^16.9.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "typescript": "^3.6.3"
+  }
+}
